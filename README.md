@@ -1,6 +1,5 @@
-# 😟
-垂直タブとか載せようと思ってる
-できたらプルリクするかも
+# 🤓
+これをベースにするよりも[アップストリーム]([https://github.com/mncrp/monot/tree/develop)でやってください
 
 ![image](https://github.com/mncrp/monot/assets/69241694/7dc9e84b-1469-4b23-96fa-ea877707b184)
 # **Monot by monochrome.** <span style="font-size: .5em">v.2.0.0 (Build 12)</span>
